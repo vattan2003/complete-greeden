@@ -1,7 +1,7 @@
 // menubar Activating
 
 function slide_nav() {
-    document.getElementById('slide_nav').style.marginLeft = "86%"
+    document.getElementById('slide_nav').style.marginLeft = "85%"
 
     // document.getElementById('slide_nav').classList.toggle('showSlideNavigation')
 }
